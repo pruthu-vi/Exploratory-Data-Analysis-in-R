@@ -77,3 +77,16 @@ points(x[gender == "Male"], y[gender == "Male"], col = "red", pch = 20)
 points(x[gender == "Female"], y[gender == "Female"], col = "green", pch = 18)
 legend("topright", legend = c("Male", "Female"), title = "Gender", 
        col = c("red", "green"), pch = c(20, 18))
+
+
+
+# Getting output
+pdf(file = "myplot1.pdf")
+plot(x, y, type = "n")
+points(x[gender == "Male"], y[gender == "Male"], col = "red", pch = 20)
+points(x[gender == "Female"], y[gender == "Female"], col = "green", pch = 18)
+legend("topright", legend = c("Male", "Female"), title = "Gender", 
+       col = c("red", "green"), pch = c(20, 18))
+title(main = "My Plot")
+dev.off() # important
+
