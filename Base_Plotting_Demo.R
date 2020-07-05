@@ -59,6 +59,8 @@ plot(x, y, pch = 20, col = "green")
 plot(x, z, pch = 19, col = "red")
 plot(y, z, pch = 18, col = "blue")
 plot(y, x, pch = 17, col = "pink")
+mtext(text = "MAIN TITLE", outer = TRUE) # putting maintitle
+
 # * note here(above) we specify "mfrow", so plots go according to row order.
 
 par(mfcol = c(2, 2), mar = c(2, 2, 1, 1))
