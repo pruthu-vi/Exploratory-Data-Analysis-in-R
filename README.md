@@ -12,7 +12,9 @@ Nessessory data sets and R codes are provided. :)
 
 ![](Figures/lp1.png)  
 
-![](Figures/lp2.png)   
+![](Figures/lp2.png)    
+
+![](Figures/lp3.png) 
 
 ![](Figures/ggp1.png)   
 
