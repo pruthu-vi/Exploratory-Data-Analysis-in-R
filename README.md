@@ -30,7 +30,11 @@ Nessessory data sets and R codes are provided. :)
 
 ![](Figures/ggp8.png)    
 
-![](Figures/ggp9.png)
+![](Figures/ggp9.png)   
+
+![](Figures/ggp10.png)   
+
+![](Figures/ggp11.png)
 
 
 
