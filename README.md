@@ -1,9 +1,22 @@
-I'm cheching this will work or not ?. 
+# Hello Welcome to My work
 
-## Tell me it worked
+Here I'm doing my work for Coursera EDA course.   
+So see some of my works here.
 
-until i dont know - from rstudio
+# Plots
+Nessessory data sets and R codes are provided. :)
 
-it worked - from hithub
+### Plot 1
 
-receaved - rstudio ;)
+![](LondonBikedays.png)    
+
+
+![](Rplot1.png)   
+
+
+![](geyserplot.png) 
+
+
+Thank You!!!  
+
+Me : Pruthuvi Kehelbedda(UOP)
