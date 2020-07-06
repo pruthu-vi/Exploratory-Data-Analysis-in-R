@@ -8,41 +8,30 @@ Nessessory data sets and R codes are provided. :)
 
 ### Plot 1
 
-![](LondonBikedays.png)    
+![](Figures/LondonBikedays.png)   
 
+![](Figures/lp1.png)  
 
-![](Rplot1.png)   
+![](Figures/lp2.png)   
 
+![](Figures/ggp1.png)   
 
-![](geyserplot.png) 
+![](Figures/ggp2.png)   
 
+![](Figures/ggp3.png)   
 
-![](lp1.png)
+![](Figures/ggp4.png)    
 
+![](Figures/ggp5.png)   
 
-![](lp2.png)
+![](Figures/ggp6.png)   
 
+![](Figures/ggp7.png)    
 
-![](ggp1.png) 
+![](Figures/ggp8.png)    
 
+![](Figures/ggp9.png)
 
-![](ggp2.png)
-
-
-![](ggp3.png)
-
-
-![](ggp4.png)  
-
-![](ggp5.png)    
-
-![](ggp6.png)   
-
-![](ggp7.png)     
-
-![](ggp8.png)   
-
-![](ggp9.png) 
 
 
 Thank You!!!  
