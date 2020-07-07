@@ -8,7 +8,13 @@ Nessessory data sets and R codes are provided. :)
 
 ### Plot 1
 
-![](Figures/LondonBikedays.png)   
+![](Figures/LondonBikedays.png)     
+
+![](Figures/col1.png)    
+
+![](Figures/col2.png)    
+
+![](Figures/col3.png)
 
 ![](Figures/lp1.png)  
 
