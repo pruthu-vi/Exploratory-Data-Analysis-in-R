@@ -15,7 +15,9 @@ Codes for some plots, you will see when you do swirl work.
 
 ![](Figures/col2.png)    
 
-![](Figures/col3.png)
+![](Figures/col3.png)    
+
+![](Figures/col4.png)
 
 ![](Figures/lp1.png)  
 

@@ -38,3 +38,7 @@ title(main = "Maunga Whau Volcano", font.main = 4)
 # more search on,
 # RColorBrewer
 # colorRamp
+
+x <- rnorm(10000)
+y <- rnorm(10000)
+smoothScatter(x, y)
