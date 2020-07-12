@@ -4,7 +4,8 @@ Here I'm doing my work for Coursera EDA course.
 So see some of my works here.
 
 # Plots
-Nessessory data sets and R codes are provided. :)
+Nessessory data sets and R codes are provided. :)   
+Codes for some plots, you will see when you do swirl work.
 
 ### Plot 1
 
@@ -42,7 +43,27 @@ Nessessory data sets and R codes are provided. :)
 
 ![](Figures/ggp10.png)   
 
-![](Figures/ggp11.png)
+![](Figures/ggp11.png)   
+
+![](Figures/ggp12.png)    
+
+![](Figures/ggp13.png)    
+
+![](Figures/ggp14.png)   
+
+![](Figures/qp1.png)   
+
+![](Figures/qp2.png)    
+
+![](Figures/qp3.png)    
+
+![](Figures/qp4.png)    
+
+![](Figures/qp5.png)    
+
+![](Figures/qp6.png)   
+
+![](Figures/qp7.png)
 
 
 
